@@ -13,6 +13,11 @@ using the [TheCocktailDB](https://www.thecocktaildb.com/) API.
 -  Browse cocktails by category (Beer, Cocktail, Coffee...)
 - Save your favorite cocktails locally
 -  Photo, ingredients, glass type and full recipe
+## 📸 Screenshots
+
+| Categories | Detail | Favorites | Drinks List |
+|------------|--------|-----------|-------------|
+| ![](screenshots/categories.png) | ![](screenshots/detail.png) | ![](screenshots/favorites.png) | ![](screenshots/list.png) |
 
 ##  Tech Stack
 
