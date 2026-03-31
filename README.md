@@ -56,7 +56,7 @@ app/src/main/java/fr/isen/donnadieu/thegreatestcocktailapp/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/donnadieu/thegreatestcocktailapp.git
+git clone https://github.com/helenedonnadieu/thegreatestcocktailapp.git
 ```
 2. Open the project in **Android Studio**
 3. Run the app on an emulator or Android device (API 24+)
